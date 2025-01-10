@@ -54,6 +54,17 @@ U
 ij
 pq
 ve
+R
+DrumGunPitchLimitsPreset6
+fg
+lm
+zs
+hk
+no
+tu
+ij
+pq
+ve
 L
 grousersForGermany6
 dg
